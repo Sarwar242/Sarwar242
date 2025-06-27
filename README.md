@@ -1,5 +1,5 @@
 # MD. SARWAR HOSSAIN
-**Senior .NET/C# Software Engineer**  
+**Software Engineer**  
 Dhaka, Bangladesh  
 sarwar.cse4.bu@gmail.com | +8801726655055  
 [GitHub](https://github.com/Sarwar242) | [LinkedIn](https://www.linkedin.com/in/sarwar-hossain-9b0477167/) | [www.sarwar.com.bd](https://www.sarwar.com.bd)
